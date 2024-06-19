@@ -1,8 +1,42 @@
-# React + Vite
+# Video Captioning Tool
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple web application to add captions to a hosted video. Built with React and styled with Tailwind CSS.
 
-Currently, two official plugins are available:
+## Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This application allows users to enter a URL to a hosted video, add captions with specific timestamps, and view the video with captions overlaid.
+
+## Features
+
+- Input field to enter video URL
+- Text area to enter captions with timestamp
+- Video player with synchronized captions
+- Play/pause functionality for the video
+
+## Technical Decisions
+
+- **Frontend Framework:** React was chosen for its component-based architecture, facilitating reusability and maintainability.
+- **Styling:** Tailwind CSS was used for its utility-first approach, allowing rapid prototyping and easy customization.
+- **State Management:** Utilized React's built-in `useState` and `useEffect` for managing component-level state and side effects.
+
+## How to Run Locally
+
+To run this project locally, follow these steps:
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/your-username/video-captioning-tool.git
+   cd video-captioning-tool
+
+2. **Install dependencies:**
+
+   ```bash
+   npm install
+
+3. **Start the development server:**
+
+   ```bash
+   npm run dev
+
+4. **Hosted link**: https://video-captioner1.netlify.app/
