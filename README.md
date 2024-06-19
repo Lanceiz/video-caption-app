@@ -21,9 +21,9 @@ This application allows users to enter a URL to a hosted video, add captions wit
 
 ## Future Scope
 
--**Performance Optimization:** Implement lazy loading for videos and optimize rendering for faster load times.
--**Interactive Features:** Enhance video controls with playback speed adjustment, volume control, and fullscreen mode.
--**Responsive design:** Improving the design to make it responsive for all kinds of devices.
+- **Performance Optimization:** Implement lazy loading for videos and optimize rendering for faster load times.
+- **Interactive Features:** Enhance video controls with playback speed adjustment, volume control, and fullscreen mode.
+- **Responsive design:** Improving the design to make it responsive for all kinds of devices.
 
 ## How to Run Locally
 
