@@ -39,4 +39,4 @@ To run this project locally, follow these steps:
    ```bash
    npm run dev
 
-4. **Hosted link**: https://video-captioner1.netlify.app/
+4. **Deployed link**: https://video-captioner1.netlify.app/
