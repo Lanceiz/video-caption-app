@@ -19,6 +19,12 @@ This application allows users to enter a URL to a hosted video, add captions wit
 - **Styling:** Tailwind CSS was used for its utility-first approach, allowing rapid prototyping and easy customization.
 - **State Management:** Utilized React's built-in `useState` and `useEffect` for managing component-level state and side effects.
 
+## Future Scope
+
+-**Performance Optimization:** Implement lazy loading for videos and optimize rendering for faster load times.
+-**Interactive Features:** Enhance video controls with playback speed adjustment, volume control, and fullscreen mode.
+-**Responsive design:** Improving the design to make it responsive for all kinds of devices.
+
 ## How to Run Locally
 
 To run this project locally, follow these steps:
